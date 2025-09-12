@@ -3,51 +3,52 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Aphiwokuhle Resume</title>
+  <title>Aphiwokuhle Kanban Board</title>
   <link rel="stylesheet" href="style.css" />
+  <!-- You can add a favicon here -->
+  <link rel="icon" href="assets/logo-light.svg" type="image/svg+xml">
 </head>
 <body>
- 
-<body>
   <div class="container">
-    <div class="side-panel">
-      <img src="assets/logo-light.svg" alt="My Logo" width="100%">
-      <div class="hedden">
-      <p class="all-boards">ALL BOARDS (1)</p>
-      <p class="button">Launch Career</p>
-      </div>
-      </div>
-      
-    <div class="heading">
-       <div class="hedden">
-      <h1 class="heading-left">Launch Career</h1>
-    </div>
     
-    </div>
-    <div class="column1">
-      <p class="task-names todo">TODO (4)</p>
-        <div class="task">Launch Epic Career 🚀</div>
-        <div class="task">Conquer React 🧩</div>
-        <div class="task">Understand Databases ⚙️</div>
-        <div class="task">Crush Frameworks 📗</div>
+    <!-- Side panel (logo + boards + button) -->
+    <aside class="side-panel">
+      <img src="assets/logo-light.svg" alt="App Logo" width="100%">
+      <div class="hidden">
+        <p class="all-boards">ALL BOARDS (1)</p>
+        <p class="button">Launch Career</p>
       </div>
+    </aside>
+    
+    <!-- Top heading bar -->
+    <header class="heading">
 
-
-    <div class="column2">
-      <p  class="task-names doing">DOING (2)</p>
-        <div class="task">Master JavaScript 💛</div>
-        <div class="task">Never Give Up 🏆</div>
-    </div>
-
-
-    <div class="column3">
-      <p  class="task-names done">DONE (2)</p>
-      
-        <div class="task">Explore ES6 Features 🚀</div>
-        <div class="task">Have fun 😺</div>
-    </div>
+      <h1 class="heading-left">Launch Career</h1>
+    </header>
+    
+    <!-- To Do column -->
+    <section class="todo">
+      <p class="task-names todo-title">TODO (4)</p>
+      <div class="task">Launch Epic Career 🚀</div>
+      <div class="task">Conquer React 🧩</div>
+      <div class="task">Understand Databases ⚙️</div>
+      <div class="task">Crush Frameworks 📗</div>
+    </section>
+    
+    <!-- Doing column -->
+    <section class="doing">
+      <p class="task-names doing-title">DOING (2)</p>
+      <div class="task">Master JavaScript 💛</div>
+      <div class="task">Never Give Up 🏆</div>
+    </section>
+    
+    <!-- Done column -->
+    <section class="done">
+      <p class="task-names done-title">DONE (2)</p>
+      <div class="task">Explore ES6 Features 🚀</div>
+      <div class="task">Have fun 😺</div>
+    </section>
+  
   </div>
- 
-
 </body>
 </html>
