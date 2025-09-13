@@ -41,7 +41,7 @@ The Kanban board adapts seamlessly across **desktop and mobile devices**, ensuri
 ## 📸 Screenshots  
 
 ### 💻 Desktop View  
-![Desktop Screenshot](assets/screenshot-desktop.png)  
+![Mobile UI](./explainer-images/JSL01_Mobile.png)
 
 ### 📱 Mobile View  
 ![Mobile Screenshot](assets/screenshot-mobile.png)  
