@@ -73,12 +73,12 @@ Check task cards for individual items with proper formatting.
 
 Resize the window to see the responsive design in action.
 
-###🤝 Author
+🤝 Author
 👤 Aphiwokuhle
 
 Student Developer at CodeSpace Academy
 
-###📌 Expected Outcome
+📌 Expected Outcome
 
 The final application should look exactly like the Figma design, with a visually cohesive, user-friendly, and responsive Kanban board that feels professional and polished.
 
