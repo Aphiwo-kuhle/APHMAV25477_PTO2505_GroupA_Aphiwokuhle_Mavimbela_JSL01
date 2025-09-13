@@ -78,6 +78,10 @@ Resize the window to see the responsive design in action.
 
 Student Developer at CodeSpace Academy
 
+📌 Expected Outcome
+
+The final application should look exactly like the Figma design, with a visually cohesive, user-friendly, and responsive Kanban board that feels professional and polished.
+
 Currently learning HTML, CSS, and JavaScript
 
 Passionate about building responsive and professional UIs
