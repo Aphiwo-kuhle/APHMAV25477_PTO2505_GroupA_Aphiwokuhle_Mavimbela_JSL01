@@ -7,7 +7,7 @@ The goal was to build a visually accurate, responsive, and professional board wi
 - A static side panel  
 - Task cards that follow the design system  
 
-The Kanban board adapts seamlessly across **desktop** 💻 and **mobile** 📱 devices, ensuring a consistent user experience.  
+The Kanban board adapts seamlessly across **desktop** 💻 and **mobile** 📱 devices, ensuring a consistent user experience
 
 ---
 
