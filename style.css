@@ -76,7 +76,7 @@
   text-align: center;
   font-weight: 900;
   padding: 10px;
-  margin-right: px;
+  
 }
 
 /* ====== TASK CARDS ====== */
@@ -124,7 +124,7 @@
 
 /* ====== RESPONSIVE STYLES ====== */
 
-/* Tablet + Mobile (Flexbox instead of Grid) */
+/* Tablet + Mobile (Flexbox ) */
 @media only screen and (max-width: 768px) {
   .container {
     display: flex;
