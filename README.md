@@ -56,7 +56,7 @@ The Kanban board adapts seamlessly across **desktop and mobile devices**, ensuri
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/Aphiwo-kuhle/Module_01_APHMAV25477_PTO2505_GroupA_Aphiwo-kuhle_JSL01.git
+   git clone https://github.com/Aphiwo-kuhle/Module_01_APHMAV25477_PTO2505_GroupA_Aphiwokuhle_Mavimbela_JSL01.git
 Navigate into the project folder
 
 bash
@@ -87,4 +87,4 @@ Currently learning HTML, CSS, and JavaScript
 
 Passionate about building responsive and professional UIs
 
->>>>>>> 29f95e2fd2f94ae6c141c591050e002733de1d58
+
