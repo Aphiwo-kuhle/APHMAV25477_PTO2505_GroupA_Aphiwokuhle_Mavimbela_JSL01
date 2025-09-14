@@ -10,7 +10,6 @@
   background-color: #E4EBFA;
 }
 
-
 /* ====== SIDE PANEL ====== */
 .side-panel {
   grid-area: side-panel;
@@ -49,7 +48,6 @@
   display: flex;
   align-items: center;
 }
-
 .heading-left {
   margin-left: 15px;
 }
