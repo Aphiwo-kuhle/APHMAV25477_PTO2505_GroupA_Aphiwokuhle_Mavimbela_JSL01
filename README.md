@@ -47,10 +47,10 @@ The Kanban board adapts seamlessly across **desktop** 💻 and **mobile** 📱 d
 ## 📸 Screenshots  
 
 ### 📱 Mobile View  
-![Mobile Screenshot](assets/screenshot-mobile.png)  
+![Mobile UI](./explainer-images/JSL01_Mobile.png) 
 
 ### 💻 Desktop View  
-![Desktop Screenshot](assets/screenshot-desktop.png)  
+![Desktop UI](./explainer-images/JSL01-Desktop.png) 
 
 *(Replace these image paths with your actual screenshot file names)*  
 
